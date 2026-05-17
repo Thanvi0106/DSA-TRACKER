@@ -29,7 +29,7 @@ Welcome to DSA Tracker, a React-based application designed to help developers pr
    ```
    Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
-   ## Available Scripts
+## Available Scripts
 In the project directory, you can run:
 
 - `npm start`: Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it. The page will reload on changes, and lint errors will appear in the console.
@@ -37,7 +37,7 @@ In the project directory, you can run:
 - `npm run build`: Builds the app for production in the `build` folder. The build is minified and optimized for performance.
 - `npm run eject`: Exposes configuration files (one-way operation, cannot be undone). Use this for full control over build tools.
 
-   ## Features
+## Features
 - Track progress on 100 DSA questions across topics like Arrays, Strings, Linked Lists, Binary Trees, and more.
 - Categorize questions by topic with total and unstarted question counts.
 - Interactive interface to mark questions as "Done" or "Not Yet Started."
